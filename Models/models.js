@@ -1,0 +1,1 @@
+/* La carpeta Models contendra los modelos de las coleciiones( En el caso de mongodb) para nuestra db */
